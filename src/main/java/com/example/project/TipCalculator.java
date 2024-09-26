@@ -14,7 +14,6 @@ public class TipCalculator {
         double totalSplit = totalBillTip / people;
      
 
-
         
 
 
@@ -30,6 +29,7 @@ public class TipCalculator {
 
         return result.toString();
     }
+    //// I got the round information from the website geeksforgeeks
      //TEST YOUR PROGRAM IN main
      public static void main(String[] args) {
         //try different values for people, percent, and cost to test your program before running test cases
